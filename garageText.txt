@@ -1,0 +1,17 @@
+abc123 A
+def456 D
+def456 A
+ghi789 A
+jkl123 A
+mno456 A
+pqr789 A
+stu123 A
+vwx456 A
+yzz789 A
+zgq429 A
+bpy135 A
+dzm792 A
+ceg028 A
+abc123 D
+vwx456 D
+ceg028 D
